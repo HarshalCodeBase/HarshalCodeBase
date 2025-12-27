@@ -1,6 +1,34 @@
 # 💫 About Me:
-👨‍🎓 About Me<br>Diploma Information Technology graduate, currently pursuing a degree,<br>focused on building strong software fundamentals and AI-assisted technical skills for future-ready IT roles.<br>🎯 Career Objective<br>To become an industry-ready technology professional capable of working in<br>software development, automation, cloud, or cyber-security–related roles,<br>using core skills combined with AI tools, and secure a position in a reputed IT company (2028+).<br>🧠 Core Skills I’m Building<br>Programming: Python, Java<br>Web Basics: HTML, CSS, JavaScript<br>Databases: SQL, relational database concepts<br>Version Control: Git, GitHub<br>System Fundamentals: APIs, basic OS & networking concepts<br>🤖 AI & Automation Focus (Future-Proof)<br>AI-assisted coding & debugging<br>Practical prompt engineering for productivity<br>Using AI APIs in applications<br>Automation using scripts and AI tools<br>(AI as a tool, not a replacement for fundamentals)<br>🔐 Security & Infrastructure Awareness<br>Cyber-security basics (threats, security hygiene)<br>Cloud & DevOps fundamentals (CI/CD concepts, containers – basics)<br>Understanding secure and scalable systems<br>🤝 Open to Collaborate On<br>Beginner → intermediate software projects<br>Automation tools<br>AI-integrated applications<br>Learning-focused open-source projects<br>💬 Ask Me About<br>Diploma & degree IT subjects<br>Learning tech step-by-step<br>Career paths in software, security, and cloud<br>Beginner project ideas<br>⚡ Fun Fact<br>I prefer building and experimenting over only studying theory.<br>🔚 Strong Closing Line<br>Goal: Become a versatile IT professional who adapts with AI and technology changes, not limited to a single role.
+# Hi, I’m Harshal 👋  
 
+🎓 Diploma IT Graduate | Degree Student  
+🚀 Building real-world software using strong fundamentals + AI tools  
+
+---
+
+## 💡 What I Do  
+I turn ideas into working applications with a focus on clean code, practical projects,  
+and AI-assisted productivity — not just theory.
+
+---
+
+## 🛠 Tech Stack  
+**Python • Java • JavaScript**  
+**React • Node.js • Spring • SQL**  
+**Git • GitHub • Docker • APIs**  
+**AI tools (ChatGPT, APIs)**
+
+---
+
+## 🎯 Career Focus  
+Preparing for software, automation, and cloud-related roles  
+where problem-solving and adaptability matter.
+
+---
+
+## 📌 What You’ll Find Here  
+- Practical projects (frontend, backend, automation)  
+- Clean READM
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshalpradeepshintre@gmail.com) 
