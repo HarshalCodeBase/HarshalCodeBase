@@ -1,40 +1,54 @@
-# 💫 About Me:
 # Hi, I’m Harshal 👋  
 
 🎓 Diploma IT Graduate | Degree Student  
-🚀 Building real-world software using strong fundamentals + AI tools  
+💻 Building strong IT fundamentals with practical, real-world projects  
+🤖 Using AI tools to improve productivity — not replace understanding  
 
 ---
 
-## 💡 What I Do  
-I turn ideas into working applications with a focus on clean code, practical projects,  
-and AI-assisted productivity — not just theory.
+## About Me
+I am focused on developing **core computer science and IT fundamentals**  
+that apply across **software development, cloud, DevOps, networking, and security**.
+
+My learning approach is practical:
+- understand systems from the ground up  
+- build projects to apply concepts  
+- use AI tools to work smarter, not skip fundamentals  
 
 ---
 
-## 🛠 Tech Stack  
-**Python • Java • JavaScript**  
-**React • Node.js • Spring • SQL**  
-**Git • GitHub • Docker • APIs**  
-**AI tools (ChatGPT, APIs)**
+## Technical Foundations
+- **Programming:** Python, Java, JavaScript  
+- **Systems & Networking:** OS basics, networking fundamentals, APIs  
+- **Backend & Applications:** RESTful services, basic web architecture  
+- **Databases:** SQL, relational database design  
+- **Tools:** Git, GitHub, Docker  
+- **AI Usage:** ChatGPT, AI APIs for development support and automation  
 
 ---
 
-## 🎯 Career Focus  
-Preparing for software, automation, and cloud-related roles  
-where problem-solving and adaptability matter.
+## Areas of Interest
+- Software Development  
+- Cloud & Infrastructure  
+- DevOps & Automation  
+- Cyber Security (foundations)  
+- System Design & Scalability  
+
+*(Specialization will be driven by projects and industry needs.)*
 
 ---
 
-## 📌 What You’ll Find Here  
-- Practical projects (frontend, backend, automation)  
-- Clean READMEs and documented code  
-- Continuous learning and improvements  
+## What You’ll Find Here
+- Learning projects with clean structure  
+- Well-documented READMEs  
+- Incremental improvements and refactoring  
+- Evidence of long-term growth, not shortcuts  
 
 ---
 
-## ⚡ Philosophy  
-> AI is a tool. Fundamentals build the engineer.
+## Professional Principle
+> Strong fundamentals scale across every IT role.  
+> AI accelerates learning — it does not replace it.
 
 
 ## 🌐 Socials:
