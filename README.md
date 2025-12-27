@@ -28,7 +28,14 @@ where problem-solving and adaptability matter.
 
 ## 📌 What You’ll Find Here  
 - Practical projects (frontend, backend, automation)  
-- Clean READM
+- Clean READMEs and documented code  
+- Continuous learning and improvements  
+
+---
+
+## ⚡ Philosophy  
+> AI is a tool. Fundamentals build the engineer.
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshalpradeepshintre@gmail.com) 
